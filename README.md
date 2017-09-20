@@ -2,3 +2,6 @@
 Nicholas Palmer
 Lab 4
 This might cause a merge conflict
+
+Partner: Sophie Loughlin
+
